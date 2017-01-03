@@ -33,14 +33,14 @@ namespace FinalProject.Controllers
 
         public ActionResult About()
         {
-            ViewBag.Message = "Your application description page.";
+            ViewBag.Message = "Champions Team Portal";
 
             return View();
         }
 
         public ActionResult Contact()
         {
-            ViewBag.Message = "Your contact page.";
+            ViewBag.Message = "Reach Ahmad Firas Alwarea";
 
             return View();
         }

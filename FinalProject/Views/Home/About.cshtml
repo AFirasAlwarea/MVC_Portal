@@ -1,7 +1,54 @@
 ﻿@{
     ViewBag.Title = "About";
 }
-<h2>@ViewBag.Title.</h2>
-<h3>@ViewBag.Message</h3>
+<header>
+    <h2 class="text-muted">@ViewBag.Title @ViewBag.Message</h2>
+</header>
 
-<p>Use this area to provide additional information.</p>
+<body class="container">
+    <div style="font-size:large">
+        <p>Hello visitor!<br /></p>
+        <p>This web site is a portal for football team we call it "Champions Team."</p>
+        <p>Most pictures and photos has been taken from the German Football Union "Deautschfussbalband" and from our best two teams "Bayern Munchen" and "Brussia Dortmund".</p>
+        <div class="text-danger">
+            <p>The portal has four levels of accessability:</p>
+            <ol>
+                <li>Adminstrators (Admin).</li>
+                <li>Players (Player).</li>
+                <li>Subscriber (Fan).</li>
+                <li>Unregistered surfer (Anonymous).</li>
+            </ol>
+        </div>
+        <div class="text-success">
+            <p>The portal aslo provides the following services:</p>
+            <ol>
+                <li>Home page with carasoul shows the events, news, and players list.</li>
+                <li>About (here).</li>
+                <li>Contact page.</li>
+                <li>News/Events page to (admins only) add,edit or delete news/events.</li>
+                <li>Members page: Shows list of users (players and Fans) with the ability of (Admin only) adding, editing, deleting.</li>
+                <li>Forum page: Show posts from the admins or players. Registered users can comment.</li>
+                <li>Comments page: accessed from the post page to (admins only) add, edit, or delete comments.</li>
+                <li>Private Messaging service page: for the players and admins to communicate together.</li>
+                <li>Register, Login page: to register users (Fans only)</li>
+            </ol>
+        </div>
+        <div class="text-info">
+            <p>We have used the following to achieve our goal:</p><br />
+            <ul>
+                <li>ASP.NET MVC5.</li>
+                <li>C# programming language.</li>
+                <li>HTML 5.</li>
+                <li>CSS.</li>
+                <li>Bootstrap (<a src="https://bootswatch.com/united/">https://bootswatch.com/united/</a>)</li>
+                <li>JavaScript.</li>
+                <li>AJAX.</li>
+                <li>Identity Framework.</li>
+                <li>Entity Framework.</li>
+                <li>SQL database.</li>
+            </ul>
+        </div>
+        <p>You can try the program with the provided users in the "Testing users.txt". </p><br />
+        <p>For any further information, feel free to @Html.ActionLink("contact us", "Contact").</p>
+    </div>
+</body>
