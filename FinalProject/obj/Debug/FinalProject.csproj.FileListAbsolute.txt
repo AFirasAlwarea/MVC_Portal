@@ -1,0 +1,210 @@
+C:\Users\Firas\Source\Repos\FinalProject\FinalProject\bin\ApplicationInsights.config
+C:\Users\Firas\Source\Repos\FinalProject\FinalProject\bin\roslyn\csc.exe
+C:\Users\Firas\Source\Repos\FinalProject\FinalProject\bin\roslyn\csc.exe.config
+C:\Users\Firas\Source\Repos\FinalProject\FinalProject\bin\roslyn\csc.rsp
+C:\Users\Firas\Source\Repos\FinalProject\FinalProject\bin\roslyn\csi.exe
+C:\Users\Firas\Source\Repos\FinalProject\FinalProject\bin\roslyn\csi.rsp
+C:\Users\Firas\Source\Repos\FinalProject\FinalProject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Firas\Source\Repos\FinalProject\FinalProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Firas\Source\Repos\FinalProject\FinalProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Firas\Source\Repos\FinalProject\FinalProject\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Firas\Source\Repos\FinalProject\FinalProject\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Firas\Source\Repos\FinalProject\FinalProject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Firas\Source\Repos\FinalProject\FinalProject\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Firas\Source\Repos\FinalProject\FinalProject\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Firas\Source\Repos\FinalProject\FinalProject\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Firas\Source\Repos\FinalProject\FinalProject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Firas\Source\Repos\FinalProject\FinalProject\bin\roslyn\System.AppContext.dll
+C:\Users\Firas\Source\Repos\FinalProject\FinalProject\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Firas\Source\Repos\FinalProject\FinalProject\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Firas\Source\Repos\FinalProject\FinalProject\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Firas\Source\Repos\FinalProject\FinalProject\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Firas\Source\Repos\FinalProject\FinalProject\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Firas\Source\Repos\FinalProject\FinalProject\bin\roslyn\vbc.exe
+C:\Users\Firas\Source\Repos\FinalProject\FinalProject\bin\roslyn\vbc.exe.config
+C:\Users\Firas\Source\Repos\FinalProject\FinalProject\bin\roslyn\vbc.rsp
+C:\Users\Firas\Source\Repos\FinalProject\FinalProject\bin\roslyn\VBCSCompiler.exe
+C:\Users\Firas\Source\Repos\FinalProject\FinalProject\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Firas\Source\Repos\FinalProject\FinalProject\bin\FinalProject.dll.config
+C:\Users\Firas\Source\Repos\FinalProject\FinalProject\bin\FinalProject.dll
+C:\Users\Firas\Source\Repos\FinalProject\FinalProject\bin\FinalProject.pdb
+C:\Users\Firas\Source\Repos\FinalProject\FinalProject\obj\Debug\FinalProject.Migrations.rami.resources
+C:\Users\Firas\Source\Repos\FinalProject\FinalProject\obj\Debug\FinalProject.Migrations.second.resources
+C:\Users\Firas\Source\Repos\FinalProject\FinalProject\obj\Debug\FinalProject.csproj.GenerateResource.Cache
+C:\Users\Firas\Source\Repos\FinalProject\FinalProject\obj\Debug\FinalProject.dll
+C:\Users\Firas\Source\Repos\FinalProject\FinalProject\obj\Debug\FinalProject.pdb
+C:\Users\Firas\Source\Repos\FinalProject\FinalProject\obj\Debug\FinalProject.csprojResolveAssemblyReference.cache
+C:\Users\deltagare\Dropbox\Shared Folder Community\Rami Copy\FinalProject\FinalProject\bin\ApplicationInsights.config
+C:\Users\deltagare\Dropbox\Shared Folder Community\Rami Copy\FinalProject\FinalProject\bin\roslyn\csc.exe
+C:\Users\deltagare\Dropbox\Shared Folder Community\Rami Copy\FinalProject\FinalProject\bin\roslyn\csc.exe.config
+C:\Users\deltagare\Dropbox\Shared Folder Community\Rami Copy\FinalProject\FinalProject\bin\roslyn\csc.rsp
+C:\Users\deltagare\Dropbox\Shared Folder Community\Rami Copy\FinalProject\FinalProject\bin\roslyn\csi.exe
+C:\Users\deltagare\Dropbox\Shared Folder Community\Rami Copy\FinalProject\FinalProject\bin\roslyn\csi.rsp
+C:\Users\deltagare\Dropbox\Shared Folder Community\Rami Copy\FinalProject\FinalProject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\deltagare\Dropbox\Shared Folder Community\Rami Copy\FinalProject\FinalProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\deltagare\Dropbox\Shared Folder Community\Rami Copy\FinalProject\FinalProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\deltagare\Dropbox\Shared Folder Community\Rami Copy\FinalProject\FinalProject\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\deltagare\Dropbox\Shared Folder Community\Rami Copy\FinalProject\FinalProject\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\deltagare\Dropbox\Shared Folder Community\Rami Copy\FinalProject\FinalProject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\deltagare\Dropbox\Shared Folder Community\Rami Copy\FinalProject\FinalProject\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\deltagare\Dropbox\Shared Folder Community\Rami Copy\FinalProject\FinalProject\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\deltagare\Dropbox\Shared Folder Community\Rami Copy\FinalProject\FinalProject\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\deltagare\Dropbox\Shared Folder Community\Rami Copy\FinalProject\FinalProject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\deltagare\Dropbox\Shared Folder Community\Rami Copy\FinalProject\FinalProject\bin\roslyn\System.AppContext.dll
+C:\Users\deltagare\Dropbox\Shared Folder Community\Rami Copy\FinalProject\FinalProject\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\deltagare\Dropbox\Shared Folder Community\Rami Copy\FinalProject\FinalProject\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\deltagare\Dropbox\Shared Folder Community\Rami Copy\FinalProject\FinalProject\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\deltagare\Dropbox\Shared Folder Community\Rami Copy\FinalProject\FinalProject\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\deltagare\Dropbox\Shared Folder Community\Rami Copy\FinalProject\FinalProject\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\deltagare\Dropbox\Shared Folder Community\Rami Copy\FinalProject\FinalProject\bin\roslyn\vbc.exe
+C:\Users\deltagare\Dropbox\Shared Folder Community\Rami Copy\FinalProject\FinalProject\bin\roslyn\vbc.exe.config
+C:\Users\deltagare\Dropbox\Shared Folder Community\Rami Copy\FinalProject\FinalProject\bin\roslyn\vbc.rsp
+C:\Users\deltagare\Dropbox\Shared Folder Community\Rami Copy\FinalProject\FinalProject\bin\roslyn\VBCSCompiler.exe
+C:\Users\deltagare\Dropbox\Shared Folder Community\Rami Copy\FinalProject\FinalProject\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\deltagare\Dropbox\Shared Folder Community\Rami Copy\FinalProject\FinalProject\bin\FinalProject.dll.config
+C:\Users\deltagare\Dropbox\Shared Folder Community\Rami Copy\FinalProject\FinalProject\bin\FinalProject.dll
+C:\Users\deltagare\Dropbox\Shared Folder Community\Rami Copy\FinalProject\FinalProject\bin\FinalProject.pdb
+C:\Users\deltagare\Dropbox\Shared Folder Community\Rami Copy\FinalProject\FinalProject\obj\Debug\FinalProject.csprojResolveAssemblyReference.cache
+C:\Users\deltagare\Dropbox\Shared Folder Community\Rami Copy\FinalProject\FinalProject\obj\Debug\FinalProject.Migrations.rami.resources
+C:\Users\deltagare\Dropbox\Shared Folder Community\Rami Copy\FinalProject\FinalProject\obj\Debug\FinalProject.Migrations.second.resources
+C:\Users\deltagare\Dropbox\Shared Folder Community\Rami Copy\FinalProject\FinalProject\obj\Debug\FinalProject.csproj.GenerateResource.Cache
+C:\Users\deltagare\Dropbox\Shared Folder Community\Rami Copy\FinalProject\FinalProject\obj\Debug\FinalProject.dll
+C:\Users\deltagare\Dropbox\Shared Folder Community\Rami Copy\FinalProject\FinalProject\obj\Debug\FinalProject.pdb
+C:\Users\deltagare\Dropbox\Shared Folder Community\Rami Copy\FinalProject\FinalProject\bin\Content\Players\110515-Soccer-Borussia-Dortmund-Marco-Reus-PI-SW.vresize.1200.675.high.4.jpg
+C:\Users\deltagare\Dropbox\Shared Folder Community\Rami Copy\FinalProject\FinalProject\bin\Content\Players\1730335-36604926-2560-1440.jpg
+C:\Users\deltagare\Dropbox\Shared Folder Community\Rami Copy\FinalProject\FinalProject\bin\Content\Players\3000.jpg
+C:\Users\deltagare\Dropbox\Shared Folder Community\Rami Copy\FinalProject\FinalProject\bin\Content\Players\3236412_heroa.jpg
+C:\Users\deltagare\Dropbox\Shared Folder Community\Rami Copy\FinalProject\FinalProject\bin\Content\Players\3354302_heroa.jpg
+C:\Users\deltagare\Dropbox\Shared Folder Community\Rami Copy\FinalProject\FinalProject\bin\Content\Players\370x257xnuri-sahin-borussia-dortmund_9noraukbc4n81gtsgzu5ii9bi.jpg.pagespeed.ic.pEgF490fdt.jpg
+C:\Users\deltagare\Dropbox\Shared Folder Community\Rami Copy\FinalProject\FinalProject\bin\Content\Players\38617FAD00000578-0-image-a-4_1473931837359.jpg
+C:\Users\deltagare\Dropbox\Shared Folder Community\Rami Copy\FinalProject\FinalProject\bin\Content\Players\84G_Schmelzer5_bvbnachrichtenbild_regular.jpg
+C:\Users\deltagare\Dropbox\Shared Folder Community\Rami Copy\FinalProject\FinalProject\bin\Content\Players\Arjen+Robben+Manchester+City+FC+v+FC+Bayern+Eipqdimrsqql.jpg
+C:\Users\deltagare\Dropbox\Shared Folder Community\Rami Copy\FinalProject\FinalProject\bin\Content\Players\DEEF15C5E1FF426BAED912A0C29E4922.jpg
+C:\Users\deltagare\Dropbox\Shared Folder Community\Rami Copy\FinalProject\FinalProject\bin\Content\Players\fcbhippo-header.png
+C:\Users\deltagare\Dropbox\Shared Folder Community\Rami Copy\FinalProject\FinalProject\bin\Content\Players\gonzalocastro-cropped_14rb2mcyqyzgx1sqfjg9qi9i66.jpg
+C:\Users\deltagare\Dropbox\Shared Folder Community\Rami Copy\FinalProject\FinalProject\bin\Content\Players\hi-res-7b4834524f967daffbb49c3382d4c5f9_crop_north.jpg
+C:\Users\deltagare\Dropbox\Shared Folder Community\Rami Copy\FinalProject\FinalProject\bin\Content\Players\images.jpg
+C:\Users\deltagare\Dropbox\Shared Folder Community\Rami Copy\FinalProject\FinalProject\bin\Content\Players\kahn.jpg
+C:\Users\deltagare\Dropbox\Shared Folder Community\Rami Copy\FinalProject\FinalProject\bin\Content\Players\lukas-podolski-germany-armenia_3154450.jpg
+C:\Users\deltagare\Dropbox\Shared Folder Community\Rami Copy\FinalProject\FinalProject\bin\Content\Players\manuel-neuer-cropped_1eaym58htd5y91vwvjdf4fe037.jpg
+C:\Users\deltagare\Dropbox\Shared Folder Community\Rami Copy\FinalProject\FinalProject\bin\Content\Players\mats-hummels-bayern-munich_pbn6zon6nus81hkjfn0u3mp10.jpg
+C:\Users\deltagare\Dropbox\Shared Folder Community\Rami Copy\FinalProject\FinalProject\bin\Content\Players\mhc1Az75.jpg
+C:\Users\deltagare\Dropbox\Shared Folder Community\Rami Copy\FinalProject\FinalProject\bin\Content\Players\Thomas-Muller-Photos.jpg
+C:\Users\deltagare\Dropbox\Shared Folder Community\Rami Copy\FinalProject\FinalProject\bin\Content\Players\weigl_bvb_getty_485021126.jpg
+C:\Users\deltagare\Dropbox\Shared Folder Community\Rami Copy\FinalProject\FinalProject\bin\Content\Players\فايدنفيلر.jpg
+C:\Users\Firas\Dropbox\IT Course\Shared Folder Community\Rami Copy\FinalProject\FinalProject\bin\ApplicationInsights.config
+C:\Users\Firas\Dropbox\IT Course\Shared Folder Community\Rami Copy\FinalProject\FinalProject\bin\roslyn\csc.exe
+C:\Users\Firas\Dropbox\IT Course\Shared Folder Community\Rami Copy\FinalProject\FinalProject\bin\roslyn\csc.exe.config
+C:\Users\Firas\Dropbox\IT Course\Shared Folder Community\Rami Copy\FinalProject\FinalProject\bin\roslyn\csc.rsp
+C:\Users\Firas\Dropbox\IT Course\Shared Folder Community\Rami Copy\FinalProject\FinalProject\bin\roslyn\csi.exe
+C:\Users\Firas\Dropbox\IT Course\Shared Folder Community\Rami Copy\FinalProject\FinalProject\bin\roslyn\csi.rsp
+C:\Users\Firas\Dropbox\IT Course\Shared Folder Community\Rami Copy\FinalProject\FinalProject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Firas\Dropbox\IT Course\Shared Folder Community\Rami Copy\FinalProject\FinalProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Firas\Dropbox\IT Course\Shared Folder Community\Rami Copy\FinalProject\FinalProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Firas\Dropbox\IT Course\Shared Folder Community\Rami Copy\FinalProject\FinalProject\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Firas\Dropbox\IT Course\Shared Folder Community\Rami Copy\FinalProject\FinalProject\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Firas\Dropbox\IT Course\Shared Folder Community\Rami Copy\FinalProject\FinalProject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Firas\Dropbox\IT Course\Shared Folder Community\Rami Copy\FinalProject\FinalProject\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Firas\Dropbox\IT Course\Shared Folder Community\Rami Copy\FinalProject\FinalProject\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Firas\Dropbox\IT Course\Shared Folder Community\Rami Copy\FinalProject\FinalProject\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Firas\Dropbox\IT Course\Shared Folder Community\Rami Copy\FinalProject\FinalProject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Firas\Dropbox\IT Course\Shared Folder Community\Rami Copy\FinalProject\FinalProject\bin\roslyn\System.AppContext.dll
+C:\Users\Firas\Dropbox\IT Course\Shared Folder Community\Rami Copy\FinalProject\FinalProject\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Firas\Dropbox\IT Course\Shared Folder Community\Rami Copy\FinalProject\FinalProject\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Firas\Dropbox\IT Course\Shared Folder Community\Rami Copy\FinalProject\FinalProject\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Firas\Dropbox\IT Course\Shared Folder Community\Rami Copy\FinalProject\FinalProject\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Firas\Dropbox\IT Course\Shared Folder Community\Rami Copy\FinalProject\FinalProject\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Firas\Dropbox\IT Course\Shared Folder Community\Rami Copy\FinalProject\FinalProject\bin\roslyn\vbc.exe
+C:\Users\Firas\Dropbox\IT Course\Shared Folder Community\Rami Copy\FinalProject\FinalProject\bin\roslyn\vbc.exe.config
+C:\Users\Firas\Dropbox\IT Course\Shared Folder Community\Rami Copy\FinalProject\FinalProject\bin\roslyn\vbc.rsp
+C:\Users\Firas\Dropbox\IT Course\Shared Folder Community\Rami Copy\FinalProject\FinalProject\bin\roslyn\VBCSCompiler.exe
+C:\Users\Firas\Dropbox\IT Course\Shared Folder Community\Rami Copy\FinalProject\FinalProject\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Firas\Dropbox\IT Course\Shared Folder Community\Rami Copy\FinalProject\FinalProject\bin\Content\Players\110515-Soccer-Borussia-Dortmund-Marco-Reus-PI-SW.vresize.1200.675.high.4.jpg
+C:\Users\Firas\Dropbox\IT Course\Shared Folder Community\Rami Copy\FinalProject\FinalProject\bin\Content\Players\1730335-36604926-2560-1440.jpg
+C:\Users\Firas\Dropbox\IT Course\Shared Folder Community\Rami Copy\FinalProject\FinalProject\bin\Content\Players\3000.jpg
+C:\Users\Firas\Dropbox\IT Course\Shared Folder Community\Rami Copy\FinalProject\FinalProject\bin\Content\Players\3236412_heroa.jpg
+C:\Users\Firas\Dropbox\IT Course\Shared Folder Community\Rami Copy\FinalProject\FinalProject\bin\Content\Players\3354302_heroa.jpg
+C:\Users\Firas\Dropbox\IT Course\Shared Folder Community\Rami Copy\FinalProject\FinalProject\bin\Content\Players\370x257xnuri-sahin-borussia-dortmund_9noraukbc4n81gtsgzu5ii9bi.jpg.pagespeed.ic.pEgF490fdt.jpg
+C:\Users\Firas\Dropbox\IT Course\Shared Folder Community\Rami Copy\FinalProject\FinalProject\bin\Content\Players\38617FAD00000578-0-image-a-4_1473931837359.jpg
+C:\Users\Firas\Dropbox\IT Course\Shared Folder Community\Rami Copy\FinalProject\FinalProject\bin\Content\Players\84G_Schmelzer5_bvbnachrichtenbild_regular.jpg
+C:\Users\Firas\Dropbox\IT Course\Shared Folder Community\Rami Copy\FinalProject\FinalProject\bin\Content\Players\Arjen+Robben+Manchester+City+FC+v+FC+Bayern+Eipqdimrsqql.jpg
+C:\Users\Firas\Dropbox\IT Course\Shared Folder Community\Rami Copy\FinalProject\FinalProject\bin\Content\Players\DEEF15C5E1FF426BAED912A0C29E4922.jpg
+C:\Users\Firas\Dropbox\IT Course\Shared Folder Community\Rami Copy\FinalProject\FinalProject\bin\Content\Players\fcbhippo-header.png
+C:\Users\Firas\Dropbox\IT Course\Shared Folder Community\Rami Copy\FinalProject\FinalProject\bin\Content\Players\gonzalocastro-cropped_14rb2mcyqyzgx1sqfjg9qi9i66.jpg
+C:\Users\Firas\Dropbox\IT Course\Shared Folder Community\Rami Copy\FinalProject\FinalProject\bin\Content\Players\hi-res-7b4834524f967daffbb49c3382d4c5f9_crop_north.jpg
+C:\Users\Firas\Dropbox\IT Course\Shared Folder Community\Rami Copy\FinalProject\FinalProject\bin\Content\Players\images.jpg
+C:\Users\Firas\Dropbox\IT Course\Shared Folder Community\Rami Copy\FinalProject\FinalProject\bin\Content\Players\kahn.jpg
+C:\Users\Firas\Dropbox\IT Course\Shared Folder Community\Rami Copy\FinalProject\FinalProject\bin\Content\Players\lukas-podolski-germany-armenia_3154450.jpg
+C:\Users\Firas\Dropbox\IT Course\Shared Folder Community\Rami Copy\FinalProject\FinalProject\bin\Content\Players\manuel-neuer-cropped_1eaym58htd5y91vwvjdf4fe037.jpg
+C:\Users\Firas\Dropbox\IT Course\Shared Folder Community\Rami Copy\FinalProject\FinalProject\bin\Content\Players\mats-hummels-bayern-munich_pbn6zon6nus81hkjfn0u3mp10.jpg
+C:\Users\Firas\Dropbox\IT Course\Shared Folder Community\Rami Copy\FinalProject\FinalProject\bin\Content\Players\mhc1Az75.jpg
+C:\Users\Firas\Dropbox\IT Course\Shared Folder Community\Rami Copy\FinalProject\FinalProject\bin\Content\Players\Thomas-Muller-Photos.jpg
+C:\Users\Firas\Dropbox\IT Course\Shared Folder Community\Rami Copy\FinalProject\FinalProject\bin\Content\Players\weigl_bvb_getty_485021126.jpg
+C:\Users\Firas\Dropbox\IT Course\Shared Folder Community\Rami Copy\FinalProject\FinalProject\bin\Content\Players\فايدنفيلر.jpg
+C:\Users\Firas\Dropbox\IT Course\Shared Folder Community\Rami Copy\FinalProject\FinalProject\bin\FinalProject.dll.config
+C:\Users\Firas\Dropbox\IT Course\Shared Folder Community\Rami Copy\FinalProject\FinalProject\bin\FinalProject.dll
+C:\Users\Firas\Dropbox\IT Course\Shared Folder Community\Rami Copy\FinalProject\FinalProject\bin\FinalProject.pdb
+C:\Users\Firas\Dropbox\IT Course\Shared Folder Community\Rami Copy\FinalProject\FinalProject\obj\Debug\FinalProject.csprojResolveAssemblyReference.cache
+C:\Users\Firas\Dropbox\IT Course\Shared Folder Community\Rami Copy\FinalProject\FinalProject\obj\Debug\FinalProject.Migrations.rami.resources
+C:\Users\Firas\Dropbox\IT Course\Shared Folder Community\Rami Copy\FinalProject\FinalProject\obj\Debug\FinalProject.Migrations.second.resources
+C:\Users\Firas\Dropbox\IT Course\Shared Folder Community\Rami Copy\FinalProject\FinalProject\obj\Debug\FinalProject.csproj.GenerateResource.Cache
+C:\Users\Firas\Dropbox\IT Course\Shared Folder Community\Rami Copy\FinalProject\FinalProject\obj\Debug\FinalProject.dll
+C:\Users\Firas\Dropbox\IT Course\Shared Folder Community\Rami Copy\FinalProject\FinalProject\obj\Debug\FinalProject.pdb
+C:\Users\deltagare\Source\Repos\FinalProject2.0\FinalProject\bin\ApplicationInsights.config
+C:\Users\deltagare\Source\Repos\FinalProject2.0\FinalProject\bin\roslyn\csc.exe
+C:\Users\deltagare\Source\Repos\FinalProject2.0\FinalProject\bin\roslyn\csc.exe.config
+C:\Users\deltagare\Source\Repos\FinalProject2.0\FinalProject\bin\roslyn\csc.rsp
+C:\Users\deltagare\Source\Repos\FinalProject2.0\FinalProject\bin\roslyn\csi.exe
+C:\Users\deltagare\Source\Repos\FinalProject2.0\FinalProject\bin\roslyn\csi.rsp
+C:\Users\deltagare\Source\Repos\FinalProject2.0\FinalProject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\deltagare\Source\Repos\FinalProject2.0\FinalProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\deltagare\Source\Repos\FinalProject2.0\FinalProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\deltagare\Source\Repos\FinalProject2.0\FinalProject\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\deltagare\Source\Repos\FinalProject2.0\FinalProject\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\deltagare\Source\Repos\FinalProject2.0\FinalProject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\deltagare\Source\Repos\FinalProject2.0\FinalProject\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\deltagare\Source\Repos\FinalProject2.0\FinalProject\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\deltagare\Source\Repos\FinalProject2.0\FinalProject\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\deltagare\Source\Repos\FinalProject2.0\FinalProject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\deltagare\Source\Repos\FinalProject2.0\FinalProject\bin\roslyn\System.AppContext.dll
+C:\Users\deltagare\Source\Repos\FinalProject2.0\FinalProject\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\deltagare\Source\Repos\FinalProject2.0\FinalProject\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\deltagare\Source\Repos\FinalProject2.0\FinalProject\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\deltagare\Source\Repos\FinalProject2.0\FinalProject\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\deltagare\Source\Repos\FinalProject2.0\FinalProject\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\deltagare\Source\Repos\FinalProject2.0\FinalProject\bin\roslyn\vbc.exe
+C:\Users\deltagare\Source\Repos\FinalProject2.0\FinalProject\bin\roslyn\vbc.exe.config
+C:\Users\deltagare\Source\Repos\FinalProject2.0\FinalProject\bin\roslyn\vbc.rsp
+C:\Users\deltagare\Source\Repos\FinalProject2.0\FinalProject\bin\roslyn\VBCSCompiler.exe
+C:\Users\deltagare\Source\Repos\FinalProject2.0\FinalProject\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\deltagare\Source\Repos\FinalProject2.0\FinalProject\bin\Content\Players\110515-Soccer-Borussia-Dortmund-Marco-Reus-PI-SW.vresize.1200.675.high.4.jpg
+C:\Users\deltagare\Source\Repos\FinalProject2.0\FinalProject\bin\Content\Players\1730335-36604926-2560-1440.jpg
+C:\Users\deltagare\Source\Repos\FinalProject2.0\FinalProject\bin\Content\Players\3000.jpg
+C:\Users\deltagare\Source\Repos\FinalProject2.0\FinalProject\bin\Content\Players\3236412_heroa.jpg
+C:\Users\deltagare\Source\Repos\FinalProject2.0\FinalProject\bin\Content\Players\3354302_heroa.jpg
+C:\Users\deltagare\Source\Repos\FinalProject2.0\FinalProject\bin\Content\Players\370x257xnuri-sahin-borussia-dortmund_9noraukbc4n81gtsgzu5ii9bi.jpg.pagespeed.ic.pEgF490fdt.jpg
+C:\Users\deltagare\Source\Repos\FinalProject2.0\FinalProject\bin\Content\Players\38617FAD00000578-0-image-a-4_1473931837359.jpg
+C:\Users\deltagare\Source\Repos\FinalProject2.0\FinalProject\bin\Content\Players\84G_Schmelzer5_bvbnachrichtenbild_regular.jpg
+C:\Users\deltagare\Source\Repos\FinalProject2.0\FinalProject\bin\Content\Players\Arjen+Robben+Manchester+City+FC+v+FC+Bayern+Eipqdimrsqql.jpg
+C:\Users\deltagare\Source\Repos\FinalProject2.0\FinalProject\bin\Content\Players\DEEF15C5E1FF426BAED912A0C29E4922.jpg
+C:\Users\deltagare\Source\Repos\FinalProject2.0\FinalProject\bin\Content\Players\fcbhippo-header.png
+C:\Users\deltagare\Source\Repos\FinalProject2.0\FinalProject\bin\Content\Players\gonzalocastro-cropped_14rb2mcyqyzgx1sqfjg9qi9i66.jpg
+C:\Users\deltagare\Source\Repos\FinalProject2.0\FinalProject\bin\Content\Players\hi-res-7b4834524f967daffbb49c3382d4c5f9_crop_north.jpg
+C:\Users\deltagare\Source\Repos\FinalProject2.0\FinalProject\bin\Content\Players\images.jpg
+C:\Users\deltagare\Source\Repos\FinalProject2.0\FinalProject\bin\Content\Players\kahn.jpg
+C:\Users\deltagare\Source\Repos\FinalProject2.0\FinalProject\bin\Content\Players\lukas-podolski-germany-armenia_3154450.jpg
+C:\Users\deltagare\Source\Repos\FinalProject2.0\FinalProject\bin\Content\Players\manuel-neuer-cropped_1eaym58htd5y91vwvjdf4fe037.jpg
+C:\Users\deltagare\Source\Repos\FinalProject2.0\FinalProject\bin\Content\Players\mats-hummels-bayern-munich_pbn6zon6nus81hkjfn0u3mp10.jpg
+C:\Users\deltagare\Source\Repos\FinalProject2.0\FinalProject\bin\Content\Players\mhc1Az75.jpg
+C:\Users\deltagare\Source\Repos\FinalProject2.0\FinalProject\bin\Content\Players\Thomas-Muller-Photos.jpg
+C:\Users\deltagare\Source\Repos\FinalProject2.0\FinalProject\bin\Content\Players\weigl_bvb_getty_485021126.jpg
+C:\Users\deltagare\Source\Repos\FinalProject2.0\FinalProject\bin\Content\Players\فايدنفيلر.jpg
+C:\Users\deltagare\Source\Repos\FinalProject2.0\FinalProject\bin\FinalProject.dll.config
+C:\Users\deltagare\Source\Repos\FinalProject2.0\FinalProject\bin\FinalProject.dll
+C:\Users\deltagare\Source\Repos\FinalProject2.0\FinalProject\bin\FinalProject.pdb
+C:\Users\deltagare\Source\Repos\FinalProject2.0\FinalProject\obj\Debug\FinalProject.csprojResolveAssemblyReference.cache
+C:\Users\deltagare\Source\Repos\FinalProject2.0\FinalProject\obj\Debug\FinalProject.Migrations.rami.resources
+C:\Users\deltagare\Source\Repos\FinalProject2.0\FinalProject\obj\Debug\FinalProject.Migrations.second.resources
+C:\Users\deltagare\Source\Repos\FinalProject2.0\FinalProject\obj\Debug\FinalProject.csproj.GenerateResource.Cache
+C:\Users\deltagare\Source\Repos\FinalProject2.0\FinalProject\obj\Debug\FinalProject.dll
+C:\Users\deltagare\Source\Repos\FinalProject2.0\FinalProject\obj\Debug\FinalProject.pdb

@@ -1,0 +1,128 @@
+﻿
+
+@{
+    ViewBag.Title = "Create";
+    var Role = ViewBag.Roles;
+    var Pos = ViewBag.positions;
+
+}
+
+<h2>Create</h2>
+
+
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+
+    <div class="form-horizontal">
+        <fieldset>
+
+            <Legend>Members</Legend>
+
+            <hr />
+            @*@Html.ValidationSummary(true, "", new { @class = "text-danger" })*@
+
+
+            <div class="form-group">
+
+                <label for="Fullname" class="col-md-2 control-label">Full Name:</label>
+                <div class="col-md-10">
+                    <input type="text" class="form-control" id="inputEmail" placeholder="Full Name" name="Fullname" />
+                </div>
+            </div>
+
+            <div class="form-group">
+                <label for="inputEmail" class="col-md-2 control-label">Email:</label>
+                <div class="col-md-10">
+                    <input type="text" class="form-control" id="inputEmail" placeholder="Email" name="Email" />
+                </div>
+            </div>
+
+            <div class="form-group">
+                <label for="Password" class="col-md-2 control-label">Password:</label>
+                <div class="col-md-10">
+                    <input type="password" class="form-control" id="Password" placeholder="Password" name="Password">
+                </div>
+            </div>
+
+            <div class="form-group">
+                <label for="Address" class="col-md-2 control-label">Address:</label>
+                <div class="col-md-10">
+                    <input type="text" class="form-control" id="Address" placeholder="Street Address" name="Address" />
+                </div>
+            </div>
+
+            <div class="form-group">
+                <label for="Position" class="col-md-2 control-label">Position:</label>
+                <div class="col-md-10">
+                    <select class="form-control" id="select" name="Position">
+                        <option value="Attack">Attack</option>
+                        <option value="Defence">Defence</option>
+                        <option value="Middel Field">Middel Field</option>
+                        <option value="Goal Keeper">Goal Keeper</option>
+                        <option value="Team Management">Management</option>
+                    </select>
+                </div>
+            </div>
+
+            <div class="form-group">
+                <label for="Birthdate" class="col-md-2 control-label">Birthday:</label>
+                <div class="col-md-10">
+                    <input type="datetime" class="form-control" id="Birthdate" placeholder="Birthday" name="Birthdate" />
+                </div>
+            </div>
+            
+            <div class="form-group">
+                <label class="col-md-2 control-label">Authorization</label>
+                <div class="col-md-10">
+                    <div class="radio">
+                        <label>
+                            <input type="radio" name="Role" id="optionsRadios1" value="Admin" checked="">
+                            Adminstrator
+                        </label>
+                    </div>
+                    <div class="radio">
+                        <label>
+                            <input type="radio" name="Role" id="optionsRadios2" value="Player">
+                            Player
+                        </label>
+                    </div>
+                    <div class="radio">
+                        <label>
+                            <input type="radio" name="Role" id="optionsRadios3" value="Fan" checked="">
+                            Fan
+                        </label>
+                    </div>
+                </div>
+            </div>
+
+            @*<div class="form-group">
+                Roles:
+                <div class="col-md-10">
+                    <select name="Role">
+                        @foreach (var item in Role)
+                {
+                            <option value="@item.Name">@item.Name</option>
+                        }
+                    </select>
+                </div>
+            </div>*@
+
+            <div class="form-group">
+                <div class="col-md-10 col-md-offset-2">
+                    <button type="reset" class="btn btn-warning">Reset</button>
+                    <button type="submit" value="Create" class="btn btn-success">Submit</button>
+                </div>
+            </div>
+
+        </fieldset>
+    </div>
+}
+
+<div>
+    @Html.ActionLink("Back to List", "Index")
+</div>
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+}

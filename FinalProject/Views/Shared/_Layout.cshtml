@@ -1,0 +1,70 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title - Champions Team Portal</title>
+    @Styles.Render("~/Content/css")
+    @Scripts.Render("~/bundles/modernizr")
+    <script src="~/Content/myAngular.js"></script>
+    <link href="~/Content/united.bootstrap.min.css" rel="stylesheet" />
+    <link href="@Url.Content("~/Content/myStyle.css")" rel="stylesheet" />
+    
+</head>
+<body onchange="stylingTables()">
+    <div class="navbar navbar-inverse navbar-fixed-top">
+        <div class="container">
+            <div class="navbar-header">
+
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                @Html.ActionLink("Champions Team", "Index", "Home", new { area = "" }, new { @class = "navbar-brand" })
+            </div>
+            <div class="navbar-collapse collapse navbar-inverse">
+                <ul class="nav navbar-nav">
+                    <li>@Html.ActionLink("Home", "Index", "Home")</li>
+                    <li>@Html.ActionLink("About", "About", "Home")</li>
+                    <li>@Html.ActionLink("Contact", "Contact", "Home")</li>
+                    @if (User.IsInRole("Player") || User.IsInRole("Admin"))
+                    {
+                        <li>@Html.ActionLink("Private Messages", "Index", "Messages")</li>
+                    }
+
+                    @if (User.Identity.IsAuthenticated)
+                    {
+                        <li>@Html.ActionLink("Members", "Index", "Members")</li>
+                        <li>@Html.ActionLink("Forum", "Index", "Posts")</li>
+                    }
+                    @if (User.IsInRole("Admin"))
+                    {
+                        <li>@Html.ActionLink("News/Events", "Index", "News")</li>
+                    }
+
+                </ul>
+                @Html.Partial("_LoginPartial")
+            </div>
+        </div>
+    </div>
+    <div class="container body-content">
+        @RenderBody()
+        <hr />
+        <footer>
+            <hr />
+            <p>&copy; @DateTime.Now.Year - Champions Team Portal by RAFI</p>
+        </footer>
+    </div>
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/bootstrap")
+    @RenderSection("scripts", required: false)
+    <script src="~/Scripts/jquery.unobtrusive-ajax.js"></script>
+    <script>
+        function stylingTables() {
+            document.getElementsByTagName("Table").className = "table-striped";
+        };
+    </script>
+    
+</body>
+</html>

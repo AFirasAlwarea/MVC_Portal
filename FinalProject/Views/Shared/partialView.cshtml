@@ -1,0 +1,11 @@
+﻿@model List<FinalProject.Models.Comment>
+
+<div>
+    @foreach (var item in Model)
+    {
+        <p>@item.WriterId</p>
+        <p>@item.DateComment</p>
+        <p>@item.Body</p>
+        <hr />
+    }
+</div>

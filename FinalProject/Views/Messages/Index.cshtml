@@ -1,0 +1,110 @@
+﻿@model FinalProject.Models.ApplicationUser
+
+@{
+    ViewBag.Title = "Index";
+    var x = Model.Messages;
+    var y = Model.RecievMessages;
+
+}
+
+<h2>Sent</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            Message
+        </th>
+        <th>
+            Time Sent
+        </th>
+        <th>
+            Read
+        </th>
+        <th>
+            To
+        </th>
+        <th>
+            From
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in x)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Body)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.timesent)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Read)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ReceptionId)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.SenderId)
+            </td>
+            <td>
+                @Html.ActionLink("show", "Edit", new { id = item.Id }) |
+                @Html.ActionLink("Details", "Details", new { id = item.Id }) |
+                @Html.ActionLink("Delete", "Delete", new { id = item.Id })
+            </td>
+        </tr>
+    }
+
+</table>
+<br />
+<h2>Recieved</h2>
+<table class="table">
+    <tr>
+        <th>
+            Message
+        </th>
+        <th>
+            Time Sent
+        </th>
+        <th>
+            Read
+        </th>
+        <th>
+            To
+        </th>
+        <th>
+            From
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in y)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Body)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.timesent)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Read)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ReceptionId)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.SenderId)
+            </td>
+            <td>
+                @Html.ActionLink("show", "EditReciev", new { id = item.Id }) |
+                @Html.ActionLink("Details", "DetailsReciev", new { id = item.Id }) |
+                @Html.ActionLink("Delete", "DeleteReciev", new { id = item.Id })
+            </td>
+        </tr>
+    }
+
+</table>

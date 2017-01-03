@@ -1,0 +1,3 @@
+C:\Users\deltagare\Dropbox\IT Course\Shared Folder Community\Original Copy\FinalProject\FinalProject\obj\Debug\FinalProject.csprojResolveAssemblyReference.cache
+C:\Users\deltagare\Dropbox\IT Course\Shared Folder Community\Original Copy\FinalProject\FinalProject\obj\Debug\FinalProject.dll
+C:\Users\deltagare\Dropbox\IT Course\Shared Folder Community\Original Copy\FinalProject\FinalProject\obj\Debug\FinalProject.pdb

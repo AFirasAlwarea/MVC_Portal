@@ -1,0 +1,81 @@
+﻿@model FinalProject.Models.Post
+
+@{
+    ViewBag.Title = "Edit";
+}
+
+<h2 class="text-success">Show the Post</h2>
+
+@Html.HiddenFor(model => model.Id)
+
+<div class="text-info">
+    <p class="col-md-2"><strong>Date and Time Posted: </strong></p>
+    <p class="col-md-10">@Model.Datecreated</p>
+    <p class="col-md-2"><strong>Writer: </strong></p>
+    <p class="col-md-10">@Model.MemberId.Fullname</p>
+</div>
+
+<br />
+<br />
+<br />
+
+<div class="panel panel-info">
+    <div class="panel-heading">
+        <h4 class="panel-title">@Model.Subject </h4>
+    </div>
+    <div class="panel-body">
+        @Model.Body
+    </div>
+</div>
+
+<div>
+    @Html.ActionLink("Back to List", "Index")
+    @if (User.IsInRole("Admin"))
+    {
+        @Html.ActionLink("| Edit Comments", "Index", "Comments", new { PostId = Model.Id }, null)
+    }
+</div>
+
+<hr />
+
+<div class="form-horizontal">
+    @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+    @using (Ajax.BeginForm("Edit", "Posts", new AjaxOptions
+    {
+        HttpMethod = "Post",
+        InsertionMode = InsertionMode.Replace,
+        UpdateTargetId = "CommentsList"
+    }))
+    {
+        @Html.AntiForgeryToken()
+        <fieldset>
+            <div class="form-group">
+                <label for="Comments" class="col-md-2 control-label">Comments</label>
+                <div class="col-md-10">
+                    <input type="text" class="form-control" id="comment" placeholder="Comment" name="Comment">
+                    <input type="hidden" value="@Model.Id" name="Id" />
+                </div>
+            </div>
+
+            <div class="form-group">
+                <div class="col-md-10 col-md-offset-2">
+                    <button type="reset" class="btn btn-default">Clear</button>
+                    <button type="submit" class="btn btn-warning">Submit</button>
+                </div>
+            </div>
+        </fieldset>
+    }
+
+    <hr />
+
+    <div id="CommentsList">
+        @Html.Partial("partialView", Model.CommentsList)
+    </div>
+    <br />
+</div>
+
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+}
+<script src="~/Scripts/jquery.unobtrusive-ajax.min.js"></script>
