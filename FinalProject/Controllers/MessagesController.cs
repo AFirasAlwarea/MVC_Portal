@@ -28,7 +28,7 @@ namespace FinalProject.Controllers
             ApplicationUser user = UserManager.FindById(System.Web.HttpContext.Current.User.Identity.GetUserId());
             foreach (var item in user.RecievMessages)
             {
-                if(item.Read==false)
+                if(item.Read == false)
                 {
                     //ScriptManager.RegisterClientScriptBlock(this, this.GetType(), "alertMessage", "alert('New Message')", true);
                     Response.Write("<script>alert('New Message ')</script>");

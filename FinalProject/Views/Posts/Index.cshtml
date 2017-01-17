@@ -35,14 +35,13 @@
             </td>
             <td>
                 @Html.DisplayFor(modelItem => item.MemberId.Fullname)
-                @*@item.MemberId.Fullname*@
             </td>
-            
+
             <td>
                 @Html.ActionLink("Show", "Edit", new { id = item.Id }) |
-                @if(User.IsInRole("Admin"))
+                @if (User.IsInRole("Admin"))
                 {
-                @Html.ActionLink("Delete", "Delete", new { id = item.Id })
+                    @Html.ActionLink("Delete", "Delete", new { id = item.Id })
                 }
             </td>
         </tr>
