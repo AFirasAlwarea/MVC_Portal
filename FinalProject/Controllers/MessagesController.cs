@@ -22,9 +22,9 @@ namespace FinalProject.Controllers
         public ActionResult Index()
         {
             var store = new RoleStore<IdentityRole>(db);
-            var userstor = new UserStore<ApplicationUser>(db);
             var roleManager = new RoleManager<IdentityRole>(store);
-            var UserManager = new UserManager<ApplicationUser>(userstor);
+            var userStor = new UserStore<ApplicationUser>(db);
+            var UserManager = new UserManager<ApplicationUser>(userStor);
             ApplicationUser user = UserManager.FindById(System.Web.HttpContext.Current.User.Identity.GetUserId());
             foreach (var item in user.RecievMessages)
             {
